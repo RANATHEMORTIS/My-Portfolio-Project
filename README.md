@@ -2,7 +2,7 @@
 
 This is the basic portfolio ehich I made using front-end technologies.
 
-Tech Stack: HTML, CSS, JAVASCRIPT, BOOTSTRAP
+Tech Stack: HTML, CSS. 
 
 
 Landing page:
